@@ -73,3 +73,6 @@ Données contenant :
 
 Meilleur modèle : **Random Forest**
 
+## Outils utilisés
+
+Langage : R
